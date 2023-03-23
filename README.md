@@ -6,3 +6,5 @@ View project:- https://mansisingh78tomar.github.io/Background-change/#
 Day 2 => Tipcalculator
 View projects = https://mansisingh78tomar.github.io/Tipcalculator/
     
+Day 3 => Counter
+View peoject :- https://mansisingh78tomar.github.io/Counters/
