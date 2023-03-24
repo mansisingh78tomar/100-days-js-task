@@ -15,4 +15,7 @@ View project :- https://mansisingh78tomar.github.io/Analog/
 Day5 => Quotes
 View projects :-  https://mansisingh78tomar.github.io/Quote/
 
+Day 6 => Expand card
+View projects:- https://mansisingh78tomar.github.io/Expand-card/
+
 
