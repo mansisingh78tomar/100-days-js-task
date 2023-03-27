@@ -18,4 +18,20 @@ View projects :-  https://mansisingh78tomar.github.io/Quote/
 Day 6 => Expand card
 View projects:- https://mansisingh78tomar.github.io/Expand-card/
 
+Day 7 => Newsletter Popup
+View projects :- https://mansisingh78tomar.github.io/Newsletter-Popup/
+
+Day 8:- image slider
+View projects :- https://mansisingh78tomar.github.io/image-slider/
+
+Day 11 :-  weight convertor
+View projects :- https://mansisingh78tomar.github.io/weight-convertor/
+
+Day 12 :- Today
+View projects :- https://mansisingh78tomar.github.io/Today/
+
+Day 13 :- Js calculator
+ View projects :- https://mansisingh78tomar.github.io/Today/
+
+
 
