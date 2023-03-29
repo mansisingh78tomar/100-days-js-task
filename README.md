@@ -43,10 +43,10 @@ Day 16 :- Messages
 Biew projects :-  https://mansisingh78tomar.github.io/Messages/
 
 Day 17 :- Digital-clock
-View projects :-  https://mansisingh78tomar.github.io/Messages/
+View projects :-   https://mansisingh78tomar.github.io/Digital-clock/
 
 Day 18 :-CSS-Changer
-View projects :-  https://mansisingh78tomar.github.io/Messages/
+View projects :-https://mansisingh78tomar.github.io/CSS-Changer/
 
 
 
