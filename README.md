@@ -48,7 +48,7 @@ View projects :-   https://mansisingh78tomar.github.io/Digital-clock/
 Day 18 :-CSS-Changer
 View projects :-https://mansisingh78tomar.github.io/CSS-Changer/
 
-Day 18 :BMI Calculato
+Day 19 :BMI Calculato
 View projects :- https://mansisingh78tomar.github.io/BMI-Calculator/
 
 
