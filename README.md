@@ -54,7 +54,7 @@ View projects :- https://mansisingh78tomar.github.io/BMI-Calculator/
 Day 19 :Illumination
 View projects :-https://mansisingh78tomar.github.io/Illumination/
 
-Day 19 :3D card
+Day 20 :3D card
 View projects :-https://mansisingh78tomar.github.io/3D/
 
 
