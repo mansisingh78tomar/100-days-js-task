@@ -51,6 +51,14 @@ View projects :-https://mansisingh78tomar.github.io/CSS-Changer/
 Day 19 :BMI Calculato
 View projects :- https://mansisingh78tomar.github.io/BMI-Calculator/
 
+Day 19 :Illumination
+View projects :-https://mansisingh78tomar.github.io/Illumination/
+
+Day 19 :3D card
+View projects :-https://mansisingh78tomar.github.io/3D/
+
+
+
 
 
 
