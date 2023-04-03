@@ -81,6 +81,10 @@ View projects :- https://mansisingh78tomar.github.io/Background-animation/
 Day 28 : Stay-blessed
 View projects :-https://mansisingh78tomar.github.io/Stay-blessed/
 
+Day 31 : Stay-blessed
+View projects :- https://mansisingh78tomar.github.io/Scratch-js/
+
+
 
 
 
