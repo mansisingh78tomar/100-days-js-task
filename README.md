@@ -33,6 +33,9 @@ View projects :- https://mansisingh78tomar.github.io/Today/
 Day 13 :- Js calculator
  View projects :- https://mansisingh78tomar.github.io/Today/
  
+Day 13 :- Js calculator
+ View projects :- https://mansisingh78tomar.github.io/Today/
+ 
 Day 14 :- Add-to-cart
 View projets :- https://mansisingh78tomar.github.io/Add-to-cart/
 
@@ -71,6 +74,12 @@ View projects :-https://mansisingh78tomar.github.io/Eye-Animation/
 
 Day 26 :Long-shadow
 View projects :- https://mansisingh78tomar.github.io/Long-shadow/
+
+Day 27 : Background-change
+View projects :- https://mansisingh78tomar.github.io/Background-animation/
+
+Day 28 : Stay-blessed
+View projects :-https://mansisingh78tomar.github.io/Stay-blessed/
 
 
 
