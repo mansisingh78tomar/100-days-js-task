@@ -63,6 +63,14 @@ View projects :-  https://mansisingh78tomar.github.io/Stop-watch/
 Day 23 :cursor-animation
 View projects :- https://mansisingh78tomar.github.io/cursor-animation/
 
+Day 24 :Text-animation
+View projects :- https://mansisingh78tomar.github.io/Text-Animation-/
+
+Day 25 :Eye-animation
+View projects :-https://mansisingh78tomar.github.io/Eye-Animation/
+
+
+
 
 
 
