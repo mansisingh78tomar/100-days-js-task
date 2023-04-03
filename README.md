@@ -87,6 +87,10 @@ View projects :- https://mansisingh78tomar.github.io/Scratch-js/
 Day 32 : Accordion
 View projects :- https://mansisingh78tomar.github.io/Accordion/
 
+Day 33 : Password-generator
+View projects :- https://mansisingh78tomar.github.io/Password-generator/
+
+
 
 
 
