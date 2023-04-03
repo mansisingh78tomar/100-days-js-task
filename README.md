@@ -69,6 +69,9 @@ View projects :- https://mansisingh78tomar.github.io/Text-Animation-/
 Day 25 :Eye-animation
 View projects :-https://mansisingh78tomar.github.io/Eye-Animation/
 
+Day 26 :Long-shadow
+View projects :- https://mansisingh78tomar.github.io/Long-shadow/
+
 
 
 
