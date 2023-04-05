@@ -96,6 +96,9 @@ View project :-  https://mansisingh78tomar.github.io/Parallex-effect/
 Day 36 : - Spotlight
 View project  :- https://mansisingh78tomar.github.io/Spotlight/
 
+Day 37 :- Scrollbar-indicator
+View project :- https://mansisingh78tomar.github.io/Scrollbar-indicator/
+
 
 
 
