@@ -90,6 +90,12 @@ View projects :- https://mansisingh78tomar.github.io/Accordion/
 Day 33 : Password-generator
 View projects :- https://mansisingh78tomar.github.io/Password-generator/
 
+Day 34 :- Parallex effect
+View project :-  https://mansisingh78tomar.github.io/Parallex-effect/
+
+Day 36 : - Spotlight
+View project  :- https://mansisingh78tomar.github.io/Spotlight/
+
 
 
 
