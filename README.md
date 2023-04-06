@@ -99,6 +99,9 @@ View project  :- https://mansisingh78tomar.github.io/Spotlight/
 Day 37 :- Scrollbar-indicator
 View project :- https://mansisingh78tomar.github.io/Scrollbar-indicator/
 
+Day 38 :- Captcha-generator
+View projects :- https://mansisingh78tomar.github.io/Captcha-Generator/
+
 
 
 
