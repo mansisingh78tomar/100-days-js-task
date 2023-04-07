@@ -105,6 +105,9 @@ View projects :- https://mansisingh78tomar.github.io/Captcha-Generator/
 Day 40 :- Bell notification
 View projects :- https://mansisingh78tomar.github.io/Bell-notification/
 
+Day 41 :- Floatting Bubble
+View projects :- https://mansisingh78tomar.github.io/Floating-Bubble/
+
 
 
 
